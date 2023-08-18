@@ -1,0 +1,3 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0042389","GO:0042389","omega-3 fatty acid desaturase activity","1/8","12/21875",0.00438085424892432,0.0306659797424702,0.018445702100734,"AtFAD3",1
+"GO:0016717","GO:0016717","oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water","1/8","26/21875",0.0094706187639747,0.0331471656739115,0.0199381447662625,"AtFAD3",1
