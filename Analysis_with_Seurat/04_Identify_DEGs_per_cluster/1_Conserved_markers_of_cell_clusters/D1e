@@ -1,0 +1,282 @@
+Attaching SeuratObject
+Loading required package: ggraph
+Loading required package: ggplot2
+Loading required package: cowplot
+Loading required package: Matrix
+Loading required package: patchwork
+
+Attaching package: ‘patchwork’
+
+The following object is masked from ‘package:cowplot’:
+
+    align_plots
+
+
+Attaching package: ‘ggpubr’
+
+The following object is masked from ‘package:cowplot’:
+
+    get_legend
+
+
+Attaching package: ‘ggthemes’
+
+The following object is masked from ‘package:cowplot’:
+
+    theme_map
+
+
+Attaching package: ‘tidyr’
+
+The following objects are masked from ‘package:Matrix’:
+
+    expand, pack, unpack
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘readr’
+
+The following object is masked from ‘package:scales’:
+
+    col_factor
+
+
+clusterProfiler v3.18.1  For help: https://guangchuangyu.github.io/software/clusterProfiler
+
+If you use clusterProfiler in published research, please cite:
+Guangchuang Yu, Li-Gen Wang, Yanyan Han, Qing-Yu He. clusterProfiler: an R package for comparing biological themes among gene clusters. OMICS: A Journal of Integrative Biology. 2012, 16(5):284-287.
+
+Attaching package: ‘clusterProfiler’
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+Loading required package: princurve
+Loading required package: viridisLite
+
+Attaching package: ‘viridis’
+
+The following object is masked from ‘package:scales’:
+
+    viridis_pal
+
+Loading required package: SummarizedExperiment
+Loading required package: MatrixGenerics
+Loading required package: matrixStats
+
+Attaching package: ‘matrixStats’
+
+The following object is masked from ‘package:dplyr’:
+
+    count
+
+
+Attaching package: ‘MatrixGenerics’
+
+The following objects are masked from ‘package:matrixStats’:
+
+    colAlls, colAnyNAs, colAnys, colAvgsPerRowSet, colCollapse,
+    colCounts, colCummaxs, colCummins, colCumprods, colCumsums,
+    colDiffs, colIQRDiffs, colIQRs, colLogSumExps, colMadDiffs,
+    colMads, colMaxs, colMeans2, colMedians, colMins, colOrderStats,
+    colProds, colQuantiles, colRanges, colRanks, colSdDiffs, colSds,
+    colSums2, colTabulates, colVarDiffs, colVars, colWeightedMads,
+    colWeightedMeans, colWeightedMedians, colWeightedSds,
+    colWeightedVars, rowAlls, rowAnyNAs, rowAnys, rowAvgsPerColSet,
+    rowCollapse, rowCounts, rowCummaxs, rowCummins, rowCumprods,
+    rowCumsums, rowDiffs, rowIQRDiffs, rowIQRs, rowLogSumExps,
+    rowMadDiffs, rowMads, rowMaxs, rowMeans2, rowMedians, rowMins,
+    rowOrderStats, rowProds, rowQuantiles, rowRanges, rowRanks,
+    rowSdDiffs, rowSds, rowSums2, rowTabulates, rowVarDiffs, rowVars,
+    rowWeightedMads, rowWeightedMeans, rowWeightedMedians,
+    rowWeightedSds, rowWeightedVars
+
+Loading required package: GenomicRanges
+Loading required package: stats4
+Loading required package: BiocGenerics
+Loading required package: parallel
+
+Attaching package: ‘BiocGenerics’
+
+The following objects are masked from ‘package:parallel’:
+
+    clusterApply, clusterApplyLB, clusterCall, clusterEvalQ,
+    clusterExport, clusterMap, parApply, parCapply, parLapply,
+    parLapplyLB, parRapply, parSapply, parSapplyLB
+
+The following objects are masked from ‘package:dplyr’:
+
+    combine, intersect, setdiff, union
+
+The following object is masked from ‘package:rliger’:
+
+    normalize
+
+The following objects are masked from ‘package:stats’:
+
+    IQR, mad, sd, var, xtabs
+
+The following objects are masked from ‘package:base’:
+
+    anyDuplicated, append, as.data.frame, basename, cbind, colnames,
+    dirname, do.call, duplicated, eval, evalq, Filter, Find, get, grep,
+    grepl, intersect, is.unsorted, lapply, Map, mapply, match, mget,
+    order, paste, pmax, pmax.int, pmin, pmin.int, Position, rank,
+    rbind, Reduce, rownames, sapply, setdiff, sort, table, tapply,
+    union, unique, unsplit, which.max, which.min
+
+Loading required package: S4Vectors
+
+Attaching package: ‘S4Vectors’
+
+The following object is masked from ‘package:clusterProfiler’:
+
+    rename
+
+The following objects are masked from ‘package:dplyr’:
+
+    first, rename
+
+The following object is masked from ‘package:tidyr’:
+
+    expand
+
+The following object is masked from ‘package:Matrix’:
+
+    expand
+
+The following object is masked from ‘package:base’:
+
+    expand.grid
+
+Loading required package: IRanges
+
+Attaching package: ‘IRanges’
+
+The following object is masked from ‘package:clusterProfiler’:
+
+    slice
+
+The following objects are masked from ‘package:dplyr’:
+
+    collapse, desc, slice
+
+Loading required package: GenomeInfoDb
+Loading required package: Biobase
+Welcome to Bioconductor
+
+    Vignettes contain introductory material; view with
+    'browseVignettes()'. To cite Bioconductor, see
+    'citation("Biobase")', and for packages 'citation("pkgname")'.
+
+
+Attaching package: ‘Biobase’
+
+The following object is masked from ‘package:MatrixGenerics’:
+
+    rowMedians
+
+The following objects are masked from ‘package:matrixStats’:
+
+    anyMissing, rowMedians
+
+
+Attaching package: ‘SummarizedExperiment’
+
+The following object is masked from ‘package:SeuratObject’:
+
+    Assays
+
+The following object is masked from ‘package:Seurat’:
+
+    Assays
+
+
+Attaching package: ‘enrichplot’
+
+The following object is masked from ‘package:ggpubr’:
+
+    color_palette
+
+Loading required package: AnnotationDbi
+
+Attaching package: ‘AnnotationDbi’
+
+The following object is masked from ‘package:clusterProfiler’:
+
+    select
+
+The following object is masked from ‘package:dplyr’:
+
+    select
+
+
+Loading required package: registry
+Loading required package: rngtools
+Loading required package: cluster
+NMF - BioConductor layer [OK] | Shared memory capabilities [OK] | Cores 2/2
+
+Attaching package: ‘NMF’
+
+The following object is masked from ‘package:S4Vectors’:
+
+    nrun
+
+
+Attaching package: ‘reshape2’
+
+The following object is masked from ‘package:tidyr’:
+
+    smiths
+
+Warning message:
+package ‘ggbeeswarm’ was built under R version 4.2.0 
+Testing group rco: (0) vs (9, 4, 2, 12, 10, 8, 6, 13, 1, 7, 18, 11, 5, 3, 15, 16, 17, 14)
+Testing group WT: (0) vs (4, 6, 13, 3, 7, 5, 2, 1, 10, 8, 12, 11, 15, 14, 9, 16, 17, 18)
+Testing group rco: (1) vs (9, 4, 2, 12, 10, 8, 6, 13, 0, 7, 18, 11, 5, 3, 15, 16, 17, 14)
+Testing group WT: (1) vs (4, 6, 13, 3, 7, 5, 2, 10, 0, 8, 12, 11, 15, 14, 9, 16, 17, 18)
+Testing group rco: (2) vs (9, 4, 12, 10, 8, 6, 13, 1, 0, 7, 18, 11, 5, 3, 15, 16, 17, 14)
+Testing group WT: (2) vs (4, 6, 13, 3, 7, 5, 1, 10, 0, 8, 12, 11, 15, 14, 9, 16, 17, 18)
+Testing group rco: (3) vs (9, 4, 2, 12, 10, 8, 6, 13, 1, 0, 7, 18, 11, 5, 15, 16, 17, 14)
+Testing group WT: (3) vs (4, 6, 13, 7, 5, 2, 1, 10, 0, 8, 12, 11, 15, 14, 9, 16, 17, 18)
+Testing group rco: (4) vs (9, 2, 12, 10, 8, 6, 13, 1, 0, 7, 18, 11, 5, 3, 15, 16, 17, 14)
+Testing group WT: (4) vs (6, 13, 3, 7, 5, 2, 1, 10, 0, 8, 12, 11, 15, 14, 9, 16, 17, 18)
+Testing group rco: (5) vs (9, 4, 2, 12, 10, 8, 6, 13, 1, 0, 7, 18, 11, 3, 15, 16, 17, 14)
+Testing group WT: (5) vs (4, 6, 13, 3, 7, 2, 1, 10, 0, 8, 12, 11, 15, 14, 9, 16, 17, 18)
+Testing group rco: (6) vs (9, 4, 2, 12, 10, 8, 13, 1, 0, 7, 18, 11, 5, 3, 15, 16, 17, 14)
+Testing group WT: (6) vs (4, 13, 3, 7, 5, 2, 1, 10, 0, 8, 12, 11, 15, 14, 9, 16, 17, 18)
+Testing group rco: (7) vs (9, 4, 2, 12, 10, 8, 6, 13, 1, 0, 18, 11, 5, 3, 15, 16, 17, 14)
+Testing group WT: (7) vs (4, 6, 13, 3, 5, 2, 1, 10, 0, 8, 12, 11, 15, 14, 9, 16, 17, 18)
+Testing group rco: (8) vs (9, 4, 2, 12, 10, 6, 13, 1, 0, 7, 18, 11, 5, 3, 15, 16, 17, 14)
+Testing group WT: (8) vs (4, 6, 13, 3, 7, 5, 2, 1, 10, 0, 12, 11, 15, 14, 9, 16, 17, 18)
+Testing group rco: (9) vs (4, 2, 12, 10, 8, 6, 13, 1, 0, 7, 18, 11, 5, 3, 15, 16, 17, 14)
+Testing group WT: (9) vs (4, 6, 13, 3, 7, 5, 2, 1, 10, 0, 8, 12, 11, 15, 14, 16, 17, 18)
+Testing group rco: (10) vs (9, 4, 2, 12, 8, 6, 13, 1, 0, 7, 18, 11, 5, 3, 15, 16, 17, 14)
+Testing group WT: (10) vs (4, 6, 13, 3, 7, 5, 2, 1, 0, 8, 12, 11, 15, 14, 9, 16, 17, 18)
+Testing group rco: (11) vs (9, 4, 2, 12, 10, 8, 6, 13, 1, 0, 7, 18, 5, 3, 15, 16, 17, 14)
+Testing group WT: (11) vs (4, 6, 13, 3, 7, 5, 2, 1, 10, 0, 8, 12, 15, 14, 9, 16, 17, 18)
+Testing group rco: (12) vs (9, 4, 2, 10, 8, 6, 13, 1, 0, 7, 18, 11, 5, 3, 15, 16, 17, 14)
+Testing group WT: (12) vs (4, 6, 13, 3, 7, 5, 2, 1, 10, 0, 8, 11, 15, 14, 9, 16, 17, 18)
+Testing group rco: (13) vs (9, 4, 2, 12, 10, 8, 6, 1, 0, 7, 18, 11, 5, 3, 15, 16, 17, 14)
+Testing group WT: (13) vs (4, 6, 3, 7, 5, 2, 1, 10, 0, 8, 12, 11, 15, 14, 9, 16, 17, 18)
+Testing group rco: (14) vs (9, 4, 2, 12, 10, 8, 6, 13, 1, 0, 7, 18, 11, 5, 3, 15, 16, 17)
+Testing group WT: (14) vs (4, 6, 13, 3, 7, 5, 2, 1, 10, 0, 8, 12, 11, 15, 9, 16, 17, 18)
+Testing group rco: (15) vs (9, 4, 2, 12, 10, 8, 6, 13, 1, 0, 7, 18, 11, 5, 3, 16, 17, 14)
+Testing group WT: (15) vs (4, 6, 13, 3, 7, 5, 2, 1, 10, 0, 8, 12, 11, 14, 9, 16, 17, 18)
+Testing group rco: (16) vs (9, 4, 2, 12, 10, 8, 6, 13, 1, 0, 7, 18, 11, 5, 3, 15, 17, 14)
+Testing group WT: (16) vs (4, 6, 13, 3, 7, 5, 2, 1, 10, 0, 8, 12, 11, 15, 14, 9, 17, 18)
+Testing group rco: (17) vs (9, 4, 2, 12, 10, 8, 6, 13, 1, 0, 7, 18, 11, 5, 3, 15, 16, 14)
+Testing group WT: (17) vs (4, 6, 13, 3, 7, 5, 2, 1, 10, 0, 8, 12, 11, 15, 14, 9, 16, 18)
+Testing group rco: (18) vs (9, 4, 2, 12, 10, 8, 6, 13, 1, 0, 7, 11, 5, 3, 15, 16, 17, 14)
+Testing group WT: (18) vs (4, 6, 13, 3, 7, 5, 2, 1, 10, 0, 8, 12, 11, 15, 14, 9, 16, 17)
