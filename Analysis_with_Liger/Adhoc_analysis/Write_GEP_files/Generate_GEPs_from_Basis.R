@@ -32,7 +32,7 @@ Basis_to_GEP_generator(input_data = Basis,
                        store_dir = storing_dir)
 
 Basis_to_GEP_generator(input_data = Basis, 
-                       Factor_ID = "44", 
+                       Factor_ID = "50", 
                        store_GEPs = TRUE, 
                        return_GEPs = FALSE, 
                        generate_ortho = TRUE, 
