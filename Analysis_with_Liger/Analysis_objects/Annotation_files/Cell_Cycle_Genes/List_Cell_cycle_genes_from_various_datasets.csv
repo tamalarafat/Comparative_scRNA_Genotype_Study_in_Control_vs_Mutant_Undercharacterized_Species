@@ -1,0 +1,152 @@
+ID,annotation.TAIR,Gene.Name,Derived_Dataset,Phase
+At1g02730,"cellulose synthase catalytic subunit, putative",CYCB3;1,"Birnbaum+Menges_etal.,2005+TAIR",M
+At1g03780,hypothetical protein,CDKB2;2,"Birnbaum+Menges_etal.,2005+TAIR",M
+At1g04020,NA,CYCA1;1,"Birnbaum+Menges_etal.,2005+TAIR",M
+At1g08560,syntaxin-related protein KNOLLE,CYCB2;4,"Birnbaum+Menges_etal.,2005+TAIR",M
+At1g18370,kinesin (AtNACK1); HINKEL,CDKB2;1,"Birnbaum+Menges_etal.,2005+TAIR",M
+At1g20590,Arath;CYCB2;5,CYCB2;1,"Birnbaum+Menges_etal.,2005+TAIR",M
+At1g23790,hypothetical protein,CYCB1;4,"Birnbaum+Menges_etal.,2005+TAIR",M
+At1g33940,hypothetical protein,CYCB1;3,"Birnbaum+Menges_etal.,2005+TAIR",M
+At1g34355,hypothetical protein,CYCB2;2,"Birnbaum+Menges_etal.,2005+TAIR",M
+At1g34460,Arath;CYCB1;5,CYCA2;2,"Birnbaum+Menges_etal.,2005+TAIR",M
+At1g50490,cyclin-specific ubiquitin carrier protein; E2; UBC20,CYCA3;2,"Birnbaum+Menges_etal.,2005+TAIR",S
+At1g59540,kinesin,CYCA3;1,"Birnbaum+Menges_etal.,2005+TAIR",S
+At1g61450,unknown protein,WEE1,Birnbaum+TAIR,NA
+At1g69400,"mitotic checkpoint protein, putative",CYCA2;3,Birnbaum+TAIR,NA
+At1g72250,kinesin,E2Fc,Birnbaum+TAIR,NA
+At1g75920,family II lipase EXL5 (EXL5),CYCA2;4,Birnbaum+TAIR,NA
+At2g16270,unknown protein,CKS1,Birnbaum+TAIR,NA
+At2g20590,hypothetical protein,CKS2,Birnbaum+TAIR,NA
+At2g22610,kinesin,CDKB1;2,Birnbaum+TAIR,NA
+At2g24490,NA,DEL3,Birnbaum+TAIR,NA
+At2g25060,early nodulin-like predicted GPI-anchored protein,CYCD3;3,Birnbaum+TAIR,NA
+At2g25880,Aurora-like kinase 1; ALK1,CYCB1;1,Birnbaum+TAIR,NA
+At2g28620,kinesin,DPa,Birnbaum+TAIR,NA
+At2g31270,NA,DEL2,Birnbaum+TAIR,NA
+At2g33560,expressed protein; BUBR1-like?,CYCA2;1,Birnbaum+TAIR,NA
+At2g38160,hypothetical protein,KRP3,Birnbaum+TAIR,NA
+At2g44190,hypothetical protein,CDKC;2,Birnbaum+TAIR,NA
+At2g47500,kinesin,CYCB1;2,"Menges_etal.,2005+TAIR",NA
+At3g02640,unknown protein ,CDKD;3,TAIR,NA
+At3g03090,sugar transporter-like,CYCB2;3,TAIR,NA
+At3g03130,hypothetical protein,CYCA3;3,TAIR,NA
+At3g12170,NA,CYCA3;4,TAIR,NA
+At3g12870,hypothetical protein,KRP7,TAIR,NA
+At3g14190,expressed protein,CDKD;2,TAIR,NA
+At3g14740,NA,CYCD1;1,TAIR,NA
+At3g19590,"mitotic checkpoint protein, putative; BUB3-like",CDKD;1,TAIR,NA
+At3g20150,kinesin,CYCA1;2,TAIR,NA
+At3g23670,kinesin,CYCD2;1,TAIR,NA
+At3g23890,topoisomerase II,KRP1,TAIR,NA
+At3g25980,putative mitotic checkpoint protein; MAD2-like,KRP4,TAIR,NA
+At3g26050,hypothetical protein,E2Fa,TAIR,NA
+At3g27330,hypothetical protein,Rb,TAIR,NA
+At3g27640,NA,KRP6,TAIR,NA
+At3g51030,NA,KRP5,TAIR,NA
+At3g51280,MS5,DEL1,TAIR,NA
+At3g54710,NA,CDKA;1,TAIR,NA
+At3g55660,putative protein,KRP2,TAIR,NA
+At3g59550,NA,CDKB1;1,TAIR,NA
+At3g60840,microtubule-associated protein; AtMAP65-4,CYCD6;1,TAIR,NA
+At4g01730,hypothetical protein,CDKF;1,TAIR,NA
+At4g02800,expressed protein,CYCD3;1,TAIR,NA
+At4g05190,kinesin,CYCD5;1,TAIR,NA
+At4g05520,unknown protein,CYCD7;1,TAIR,NA
+At4g11080,"98b like protein, HMG",DPb,TAIR,NA
+At4g12620,NA,CDKC;1,TAIR,NA
+At4g15830,expressed protein,CYCD4;2,TAIR,NA
+At4g22860,hypothetical protein,E2Fb,TAIR,NA
+At4g23800,"98b like protein, HMG; ABF2-like",CYCH;1,TAIR,NA
+At4g26660,kinesin-like,CDKE;1,TAIR,NA
+At4g28230,putative protein,CYCD4;1,TAIR,NA
+At4g28310,NA,CYCD3;2,TAIR,NA
+At4g28430,expressed protein,NA,"Birnbaum+Menges_etal.,2005",M
+At4g32830,Aurora-like kinase 2; ALK2,NA,"Birnbaum+Menges_etal.,2006",M
+At4g33260,WD-repeat protein; CDC20-like,NA,"Birnbaum+Menges_etal.,2007",M
+At4g33400,Dem -like protein,NA,"Birnbaum+Menges_etal.,2008",M
+At4g39830,NA,NA,"Birnbaum+Menges_etal.,2009",M
+At5g02370,kinesin,NA,"Birnbaum+Menges_etal.,2010",M
+At5g02520,NA,NA,"Birnbaum+Menges_etal.,2011",M
+At5g08020,NA,NA,"Birnbaum+Menges_etal.,2012",M
+At5g11510,AtMYB3R4,NA,"Birnbaum+Menges_etal.,2013",M
+At5g13840,CCS52b; cell cycle switch protein,NA,"Birnbaum+Menges_etal.,2014",M
+At5g15510,putative protein,NA,"Birnbaum+Menges_etal.,2015",M
+At5g17160,putative protein ,NA,"Birnbaum+Menges_etal.,2016",M
+At5g23420,NA,NA,"Birnbaum+Menges_etal.,2017",M
+At5g23910,kinesin,NA,"Birnbaum+Menges_etal.,2018",M
+At5g33300,putative protein,NA,"Birnbaum+Menges_etal.,2019",M
+At5g36710,putative protein,NA,"Birnbaum+Menges_etal.,2020",S
+At5g38690,NA,NA,"Birnbaum+Menges_etal.,2021",S
+At5g43530,NA,NA,"Birnbaum+Menges_etal.,2022",S
+At5g45700,unknown protein,NA,"Birnbaum+Menges_etal.,2023",S
+At5g48310,putative protein,NA,"Birnbaum+Menges_etal.,2024",S
+At5g51600,microtubule-associated protein; AtMAP65-3 ,NA,"Birnbaum+Menges_etal.,2025",S
+At5g52220,NA,NA,"Birnbaum+Menges_etal.,2026",S
+At5g55520,kinesin-like,NA,"Birnbaum+Menges_etal.,2027",S
+At5g55830,L-Lectin kinase,NA,"Birnbaum+Menges_etal.,2028",S
+At5g60930,kinesin,NA,"Birnbaum+Menges_etal.,2029",S
+At5g62550,unknown protein,NA,"Birnbaum+Menges_etal.,2030",S
+At5g63540,NA,NA,"Birnbaum+Menges_etal.,2031",S
+At5g66230,putative protein,NA,"Birnbaum+Menges_etal.,2032",S
+At5g67270,microtubule-associated protein EB1-like protein,NA,"Birnbaum+Menges_etal.,2033",S
+At1g02970,NA,NA,"Birnbaum+Menges_etal.,2034",S
+At1g15570,NA,NA,"Birnbaum+Menges_etal.,2035",S
+At1g16330,Arath;CYCB3;1,NA,Birnbaum,NA
+At1g18040,NA,NA,Birnbaum,NA
+At1g20610,NA,NA,Birnbaum,NA
+At1g20930,Arath;CDKB2;2,NA," Menges et al., 2005",M
+At1g44110,Arath;CYCA1;1,NA," Menges et al., 2005",M
+At1g47210,NA,NA," Menges et al., 2005",M
+At1g47220,NA,NA," Menges et al., 2005",M
+At1g47230,NA,NA," Menges et al., 2005",M
+At1g47870,NA,NA," Menges et al., 2005",M
+At1g49620,NA,NA," Menges et al., 2005",M
+At1g66750,NA,NA," Menges et al., 2005",M
+At1g70210,NA,NA," Menges et al., 2005",M
+At1g73690,NA,NA," Menges et al., 2005",M
+At1g76310,Arath;CYCB2;4,NA," Menges et al., 2005",M
+At1g76540,Arath;CDKB2;1,NA," Menges et al., 2005",M
+At1g77390,NA,NA," Menges et al., 2005",M
+At1g80370,NA,NA," Menges et al., 2005",M
+At2g17620,Arath;CYCB2;1,NA," Menges et al., 2005",M
+At2g22490,NA,NA," Menges et al., 2005",M
+At2g23430,NA,NA," Menges et al., 2005",M
+At2g26760,Arath;CYCB1;4,NA," Menges et al., 2005",M
+At2g27960,NA,NA," Menges et al., 2005",M
+At2g27970,NA,NA," Menges et al., 2005",M
+At2g32710,NA,NA," Menges et al., 2005",M
+At2g36010,NA,NA," Menges et al., 2005",M
+At2g38620,NA,NA," Menges et al., 2005",M
+At3g01330,NA,NA," Menges et al., 2005",M
+At3g11520,Arath;CYCB1;3,NA," Menges et al., 2005",M
+At3g12280,NA,NA," Menges et al., 2005",M
+At3g19150,NA,NA," Menges et al., 2005",M
+At3g24810,NA,NA," Menges et al., 2005",M
+At3g48160,NA,NA," Menges et al., 2005",M
+At3g48750,NA,NA," Menges et al., 2005",M
+At3g50070,NA,NA," Menges et al., 2005",M
+At3g50630,NA,NA," Menges et al., 2005",M
+At3g54180,NA,NA," Menges et al., 2005",M
+At4g03270,NA,NA," Menges et al., 2005",M
+At4g28980,NA,NA," Menges et al., 2005",M
+At4g34160,NA,NA," Menges et al., 2005",M
+At4g35620,Arath;CYCB2;2,NA," Menges et al., 2005",M
+At4g37490,NA,NA," Menges et al., 2005",M
+At4g37630,NA,NA," Menges et al., 2005",M
+At5g02110,NA,NA," Menges et al., 2005",M
+At5g02470,NA,NA," Menges et al., 2005",M
+At5g03410,NA,NA," Menges et al., 2005",M
+At5g06150,Arath;CYCB1;2,NA," Menges et al., 2005",M
+At5g10270,NA,NA," Menges et al., 2005",M
+At5g10440,NA,NA," Menges et al., 2005",M
+At5g11300,Arath;CYCA2;2,NA," Menges et al., 2005",M
+At5g14960,NA,NA," Menges et al., 2005",M
+At5g22220,NA,NA," Menges et al., 2005",M
+At5g25380,NA,NA," Menges et al., 2005",M
+At5g27620,NA,NA," Menges et al., 2005",M
+At5g43080,NA,NA," Menges et al., 2005",M
+At5g48820,NA,NA," Menges et al., 2005",M
+At5g63610,NA,NA," Menges et al., 2005",M
+At5g64960,NA,NA," Menges et al., 2005",M
+At5g65420,NA,NA," Menges et al., 2005",M
+At5g67260,NA,NA," Menges et al., 2005",M
