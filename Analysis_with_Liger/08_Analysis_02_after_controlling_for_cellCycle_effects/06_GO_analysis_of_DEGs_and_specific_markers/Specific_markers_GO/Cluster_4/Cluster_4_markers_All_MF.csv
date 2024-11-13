@@ -1,8 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
-"GO:0042389","GO:0042389","omega-3 fatty acid desaturase activity","1/8","12/21875",0.00438085424892432,0.0306659797424702,0.018445702100734,"AtFAD3",1
-"GO:0016717","GO:0016717","oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water","1/8","26/21875",0.0094706187639747,0.0331471656739115,0.0199381447662625,"AtFAD3",1
-"GO:0035091","GO:0035091","phosphatidylinositol binding","1/8","86/21875",0.0310269395394542,0.0723961922587266,0.0435465818097603,"FKD1",1
-"GO:0005543","GO:0005543","phospholipid binding","1/8","144/21875",0.0514733959845466,0.0900784429729565,0.0541825220889964,"FKD1",1
-"GO:0008289","GO:0008289","lipid binding","1/8","269/21875",0.094259979103912,0.131963970745477,0.0793768245085575,"FKD1",1
-"GO:0042802","GO:0042802","identical protein binding","1/8","387/21875",0.133091113171481,0.134703816455549,0.0810248520033375,"ARF5",1
-"GO:0016705","GO:0016705","oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen","1/8","392/21875",0.134703816455549,0.134703816455549,0.0810248520033375,"AtFAD3",1

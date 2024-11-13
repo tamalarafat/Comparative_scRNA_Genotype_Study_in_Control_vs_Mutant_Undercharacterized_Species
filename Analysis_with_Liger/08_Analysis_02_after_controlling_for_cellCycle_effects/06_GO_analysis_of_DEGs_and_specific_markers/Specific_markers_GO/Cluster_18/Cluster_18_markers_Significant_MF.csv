@@ -1,4 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
-"GO:0015165","GO:0015165","pyrimidine nucleotide-sugar transmembrane transporter activity","5/293","23/21875",1.15031525647838e-05,0.00379604034637864,0.00349938009602369,"ATUTR3/NA/ATUTR1/UGNT1/ROCK1",5
-"GO:0003756","GO:0003756","protein disulfide isomerase activity","4/293","23/21875",0.000228398039546473,0.018842838262584,0.0173702719549818,"ATPDI10/ATPDI4/ATPDI12/ATPDI1",4
-"GO:0016864","GO:0016864","intramolecular oxidoreductase activity, transposing S-S bonds","4/293","23/21875",0.000228398039546473,0.018842838262584,0.0173702719549818,"ATPDI10/ATPDI4/ATPDI12/ATPDI1",4
